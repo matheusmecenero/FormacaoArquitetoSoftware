@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "/7Ke3nTJZjYzJR/0MmugPKZUGLnG9o0Gxo2zuBaZVXWjafGFs9IFVReZEMuHtnoBa4f4m1JYbmy/FuZjFzPaZw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\mmecenero\\Documents\\Formação Arquiteto\\Fundamentos de Arquitetura\\OOP\\OOP.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\mmecenero\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\2.2.0\\microsoft.extensions.dependencyinjection.abstractions.2.2.0.nupkg.sha512"
+  ],
+  "logs": []
+}
